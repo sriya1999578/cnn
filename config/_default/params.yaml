@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: my_theme
-day_night: true
+theme: miminal
+day_night: false
 font: native
 font_size: XL
 
